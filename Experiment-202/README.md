@@ -1,4 +1,4 @@
-# Experiment: Condition Variables and State Machine using Threads
+# Experiment 202: Condition Variables and State Machine using Threads
 
 ## Aim
 
@@ -245,6 +245,10 @@ main, exiting
 ```
 
 *(The sequence alternates between state 2 and state 3 depending on whether the counter is even or odd.)*
+
+---
+
+# Output
 
 ---
 
