@@ -121,12 +121,10 @@ Child 3 running after parent exit. My PID = 1203, New Parent PID = 1
 ```
 
 *(After the parent exits, the child processes are adopted by the **init process (PID 1)**.)*
-
----
-
 # Ouput
+<img width="718" height="375" alt="exp202-op" src="https://github.com/user-attachments/assets/326e4d0b-4a1a-4fe0-9ec1-ca4203624583" />
 
----
+
 
 # Result
 
