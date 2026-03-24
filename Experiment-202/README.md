@@ -1,3 +1,4 @@
+
 # Experiment 202: Condition Variables and State Machine using Threads
 
 ## Aim
@@ -28,7 +29,6 @@ State 1 → State 3 (if internal variable is odd)
 State 2 → State 0
 State 3 → State 0
 ```
-![tranistion](qn.png)
 
 Each state is handled by a **separate thread**, and threads synchronize using **mutex locks and condition variables**.
 
@@ -250,7 +250,7 @@ main, exiting
 ---
 
 # Output
-
+<img width="1435" height="268" alt="image" src="https://github.com/user-attachments/assets/5e53a3b8-2ccd-4765-85be-7532eadeb242" />
 ---
 
 # Result
